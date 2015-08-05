@@ -1,0 +1,9 @@
+{ "settings" : {
+	"imgLogo": ""
+	},
+  "libraries"   :[],  
+  "main_files"  : [],
+  "applications": [
+  	"login"
+  ]
+}
